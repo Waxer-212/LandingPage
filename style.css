@@ -68,7 +68,7 @@ a
     flex:1;
     gap: 20px;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .left
@@ -78,7 +78,8 @@ a
 
 .title-section img
 {
-    width: 100%;
+    width: 400px;
+    height: 300px;
     border-radius: 15%;
 }
 
@@ -139,7 +140,7 @@ a
 {
     display: flex;
     flex-direction: column;
-    padding: 20px 100px;
+    padding: 100px 100px;
     background-color: #e5e7eb;
     font-style: italic;
     font-size: 24px;
@@ -154,7 +155,7 @@ a
 
 .warning
 {
-    padding: 20px 100px;
+    padding: 100px 100px;
 }
 
 .error-card
